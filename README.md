@@ -4,6 +4,10 @@
 * **Thời gian học:** Học kỳ 2 - 2025/2026
 * **Họ và tên sinh viên:** Lê Nguyễn Bá Phú
 * **MSSV:** 25120416
+* **Họ và tên sinh viên:** Lương Hồ Bảo Phúc
+* **MSSV:** 25120418
+* **Họ và tên sinh viên:** Lê Minh Triết
+* **MSSV:** 25120456
 
 ---
 
