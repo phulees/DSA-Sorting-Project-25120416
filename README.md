@@ -43,7 +43,7 @@ Công cụ `test_gen.cpp` cung cấp Command-line Interface theo chuẩn, sử d
 * **Test 5 (Bãi rác bộ nhớ):** Độ dài (10-100) và ký tự hoàn toàn ngẫu nhiên. Trừng phạt các bài Merge Sort (giống thuật toán lần 1) liên tục cấp phát và sao chép chuỗi mới, làm tràn bộ nhớ Heap.
 
 ### Bài `strlenlexi` (Ưu tiên độ dài, N = 10.000)
-* **Test 1 (Cú lừa từ điển giả):** Cặp `"apple"` đấu với `"aaaaaaaaaa"`. Tấn công các code viết sai logic: So sánh từ điển trước, độ dài sau.
+* **Test 1 (Cú lừa từ điển giả):** Cặp `"aaaaaaaaaaaaaaaaaaaa"` đấu với `"zzzzzzzzzz"`. Tấn công các code viết sai logic: So sánh từ điển trước, độ dài sau.
 * **Test 2 (Áp lực độ dài):** Chung 99 ký tự 'x' ở tiền tố. Bào mòn giới hạn thời gian (1 giây) của hệ thống với các thuật toán $O(N^2)$.
 * **Test 3 (Thác nước ngược):** Chuỗi dài đứng trước, chữ cái lớn đứng trước. 
 * **Test 4 (Bản sao vô tận):** $10.000$ chuỗi toàn chữ 'm'. Bẫy lỗi đệ quy quá sâu (Stack Overflow).
